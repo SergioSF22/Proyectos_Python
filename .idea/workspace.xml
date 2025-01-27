@@ -5,33 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Conversiones+entre+Tipos+de+Datos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Formatear+Cadenas.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Integers+y+Floats.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Los+Nombres+de+las+Variables.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Operadores+Matemáticos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Redondeo.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Tipos+de+Datos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Variables.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/proyecto/comisiones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/proyecto/analizadorTexto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,18 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SergioSF22"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SergioSF22&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SergioSF22/Curso_python.git",
-    "accountId": "5fc9905c-ce6e-4137-ac28-ca24156ed81f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SergioSF22/Curso_python.git&quot;,
+    &quot;accountId&quot;: &quot;5fc9905c-ce6e-4137-ac28-ca24156ed81f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -75,6 +76,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.analizadorTexto.executor": "Run",
     "Python.comisiones.executor": "Run",
     "Python.ej11.executor": "Run",
     "Python.ej12.executor": "Run",
@@ -93,6 +95,32 @@
     "Python.ej25.executor": "Run",
     "Python.ej26.executor": "Run",
     "Python.ej27.executor": "Run",
+    "Python.ej28.executor": "Run",
+    "Python.ej29.executor": "Run",
+    "Python.ej30.executor": "Run",
+    "Python.ej31.executor": "Run",
+    "Python.ej32.executor": "Run",
+    "Python.ej33.executor": "Run",
+    "Python.ej34.executor": "Run",
+    "Python.ej35.executor": "Run",
+    "Python.ej36.executor": "Run",
+    "Python.ej37.executor": "Run",
+    "Python.ej38.executor": "Run",
+    "Python.ej39.executor": "Run",
+    "Python.ej41.executor": "Run",
+    "Python.ej42.executor": "Run",
+    "Python.ej43.executor": "Run",
+    "Python.ej44.executor": "Run",
+    "Python.ej45.executor": "Run",
+    "Python.ej46.executor": "Run",
+    "Python.ej47.executor": "Run",
+    "Python.ej48.executor": "Run",
+    "Python.ej49.executor": "Run",
+    "Python.ej50.executor": "Run",
+    "Python.ej51.executor": "Run",
+    "Python.ej52.executor": "Run",
+    "Python.ej53.executor": "Run",
+    "Python.ej54.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -120,5 +148,16 @@
       <updated>1737539449411</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
