@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/proyecto/analizadorTexto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/proyecto/adivinaElNumero.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +49,40 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.55ej.executor": "Run",
+    "Python.56ej.executor": "Run",
+    "Python.57ej.executor": "Run",
+    "Python.58ej.executor": "Run",
+    "Python.59ej.executor": "Run",
+    "Python.60ej.executor": "Run",
+    "Python.61ej.executor": "Run",
+    "Python.62ej.executor": "Run",
+    "Python.63ej.executor": "Run",
+    "Python.64ej.executor": "Run",
+    "Python.65ej.executor": "Run",
+    "Python.66ej.executor": "Run",
+    "Python.67ej.executor": "Run",
+    "Python.68ej.executor": "Run",
+    "Python.69ej.executor": "Run",
+    "Python.70ej.executor": "Run",
+    "Python.71ej.executor": "Run",
+    "Python.72ej.executor": "Run",
+    "Python.73ej.executor": "Run",
+    "Python.74ej.executor": "Run",
+    "Python.75ej.executor": "Run",
+    "Python.76ej.executor": "Run",
+    "Python.77ej.executor": "Run",
+    "Python.78ej.executor": "Run",
+    "Python.79ej.executor": "Run",
+    "Python.80ej.executor": "Run",
+    "Python.81ej.executor": "Run",
+    "Python.82ej.executor": "Run",
+    "Python.83ej.executor": "Run",
+    "Python.84ej.executor": "Run",
+    "Python.85ej.executor": "Run",
+    "Python.86ej.executor": "Run",
+    "Python.87ej.executor": "Run",
+    "Python.adivinaElNumero.executor": "Run",
     "Python.analizadorTexto.executor": "Run",
     "Python.comisiones.executor": "Run",
     "Python.ej11.executor": "Run",
