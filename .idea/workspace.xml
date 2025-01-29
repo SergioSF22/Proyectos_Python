@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/proyecto/adivinaElNumero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/proyecto/el_ahorcado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +53,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.100ej.executor": "Run",
+    "Python.101ej.executor": "Run",
+    "Python.102ej.executor": "Run",
+    "Python.103ej.executor": "Run",
+    "Python.104ej.executor": "Run",
+    "Python.105ej.executor": "Run",
+    "Python.106ej.executor": "Run",
+    "Python.107ej.executor": "Run",
+    "Python.108ej.executor": "Run",
     "Python.55ej.executor": "Run",
     "Python.56ej.executor": "Run",
     "Python.57ej.executor": "Run",
@@ -82,6 +95,18 @@
     "Python.85ej.executor": "Run",
     "Python.86ej.executor": "Run",
     "Python.87ej.executor": "Run",
+    "Python.88ej.executor": "Run",
+    "Python.89ej.executor": "Run",
+    "Python.90ej.executor": "Run",
+    "Python.91ej.executor": "Run",
+    "Python.92ej.executor": "Run",
+    "Python.93ej.executor": "Run",
+    "Python.94ej.executor": "Run",
+    "Python.95ej.executor": "Run",
+    "Python.96ej.executor": "Run",
+    "Python.97ej.executor": "Run",
+    "Python.98ej.executor": "Run",
+    "Python.Adivina_el_Numero_Solucion.executor": "Run",
     "Python.adivinaElNumero.executor": "Run",
     "Python.analizadorTexto.executor": "Run",
     "Python.comisiones.executor": "Run",
@@ -128,6 +153,11 @@
     "Python.ej52.executor": "Run",
     "Python.ej53.executor": "Run",
     "Python.ej54.executor": "Run",
+    "Python.el_ahorcado.executor": "Run",
+    "Python.problema_practico1.executor": "Debug",
+    "Python.problema_practico2.executor": "Debug",
+    "Python.problema_practico3.executor": "Run",
+    "Python.problema_practico4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -135,6 +165,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 5 - Programa el juego 'El ahorcado'\apuntes" />
+      <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 5 - Programa el juego 'El ahorcado'\ejercicios" />
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 2 - Programa un calculador de comisiones\apuntes" />
     </key>
   </component>
@@ -166,5 +198,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/107ej.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
