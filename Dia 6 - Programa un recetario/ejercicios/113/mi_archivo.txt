@@ -1,0 +1,5 @@
+Log de erorres
+Acciones por el usuario
+
+Nuevo inicio de sesion
+Nuevo inicio de sesion
