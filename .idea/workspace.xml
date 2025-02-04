@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/principal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/pruebas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +87,12 @@
     "Python.142ej.executor": "Run",
     "Python.143ej.executor": "Run",
     "Python.144ej.executor": "Run",
+    "Python.145ej.executor": "Run",
+    "Python.146ej.executor": "Run",
+    "Python.147ej.executor": "Run",
+    "Python.148ej.executor": "Run",
+    "Python.149ej.executor": "Run",
+    "Python.150ej.executor": "Run",
     "Python.55ej.executor": "Run",
     "Python.56ej.executor": "Run",
     "Python.57ej.executor": "Run",
@@ -178,10 +187,15 @@
     "Python.ej54.executor": "Run",
     "Python.el_ahorcado.executor": "Run",
     "Python.limpiar consola.executor": "Run",
+    "Python.numeros.executor": "Run",
+    "Python.practica_pylint.executor": "Run",
+    "Python.principal.executor": "Run",
+    "Python.principal_solucion.executor": "Run",
     "Python.problema_practico1.executor": "Debug",
     "Python.problema_practico2.executor": "Debug",
     "Python.problema_practico3.executor": "Run",
     "Python.problema_practico4.executor": "Run",
+    "Python.pruebas.executor": "Run",
     "Python.recetario.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -194,11 +208,11 @@
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\113" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 8 - Programa una consola de turnos\proyecto\solucion" />
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\120" />
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\119" />
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\114" />
       <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\113" />
-      <recent name="C:\Users\SergioSF\Desktop\Curso_Python\Dia 6 - Programa un recetario\ejercicios\112" />
     </key>
   </component>
   <component name="RunManager">
@@ -264,6 +278,13 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
