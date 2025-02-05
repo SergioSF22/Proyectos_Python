@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/principal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/pruebas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/buscador_num_serie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/descomprimir.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +91,18 @@
     "Python.148ej.executor": "Run",
     "Python.149ej.executor": "Run",
     "Python.150ej.executor": "Run",
+    "Python.151ej.executor": "Run",
+    "Python.152ej.executor": "Run",
+    "Python.153ej.executor": "Run",
+    "Python.154ej.executor": "Run",
+    "Python.155ej.executor": "Run",
+    "Python.156ej.executor": "Run",
+    "Python.157ej.executor": "Run",
+    "Python.158ej.executor": "Run",
+    "Python.159ej.executor": "Run",
+    "Python.160ej.executor": "Run",
+    "Python.161ej.executor": "Run",
+    "Python.162ej.executor": "Run",
     "Python.55ej.executor": "Run",
     "Python.56ej.executor": "Run",
     "Python.57ej.executor": "Run",
@@ -140,8 +150,10 @@
     "Python.Adivina_el_Numero_Solucion.executor": "Run",
     "Python.adivinaElNumero.executor": "Run",
     "Python.analizadorTexto.executor": "Run",
+    "Python.buscador_num_serie.executor": "Run",
     "Python.comisiones.executor": "Run",
     "Python.cuenta_bancaria.executor": "Run",
+    "Python.descomprimir.executor": "Run",
     "Python.ej11.executor": "Run",
     "Python.ej12.executor": "Run",
     "Python.ej13.executor": "Run",
