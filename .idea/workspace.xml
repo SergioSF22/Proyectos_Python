@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/buscador_num_serie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/descomprimir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/proyecto/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/116ej.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/116ej.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/117ej.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/117ej.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +200,7 @@
     "Python.ej54.executor": "Run",
     "Python.el_ahorcado.executor": "Run",
     "Python.limpiar consola.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.numeros.executor": "Run",
     "Python.practica_pylint.executor": "Run",
     "Python.principal.executor": "Run",
