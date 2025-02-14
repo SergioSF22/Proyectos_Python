@@ -3,9 +3,9 @@
 Este repositorio contiene una colección de pequeños proyectos y scripts desarrollados en **Python**. Cada mini-proyecto aborda un concepto, problema o funcionalidad específica.
 
 ## 📂 Contenido  
-- 🎮 **Juego con PyGame** – Un videojuego desarrollado con la biblioteca **PyGame**.  
+- 🎮 **Juego con PyGame** – Un videojuego desarrollado con la biblioteca **PyGame**. 
 - 🌐 **Web Scraping** – Script que extrae información de sitios web usando **BeautifulSoup** y **requests**.  
-- 🍽️ **Gestor de Restaurante** – Aplicación de escritorio creada con **Tkinter** para la gestión de un restaurante. [*En progreso*]  
+- 🍽️ **Gestor de Restaurante** – Aplicación de escritorio creada con **Tkinter** para la gestión de un restaurante.  
 - 🗣️ **Asistente de Voz** – Un asistente inteligente que responde a comandos de voz.  [*En progreso*] 
 - 🏞️ **Reconocedor Facial** – Implementación de reconocimiento facial con **OpenCV**.  [*En progreso*] 
 - 🤖 **Modelo de Machine Learning** – Mini modelo de aprendizaje automático utilizando **Pandas** y **NumPy**.  [*En progreso*] 
