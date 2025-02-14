@@ -6,10 +6,10 @@ Este repositorio contiene una colección de pequeños proyectos y scripts desarr
 - 🎮 **Juego con PyGame** – Un videojuego desarrollado con la biblioteca **PyGame**.  
 - 🌐 **Web Scraping** – Script que extrae información de sitios web usando **BeautifulSoup** y **requests**.  
 - 🍽️ **Gestor de Restaurante** – Aplicación de escritorio creada con **Tkinter** para la gestión de un restaurante. [*En progreso*]  
-- 🗣️ **Asistente de Voz** – Un asistente inteligente que responde a comandos de voz.  
-- 🏞️ **Reconocedor Facial** – Implementación de reconocimiento facial con **OpenCV**.  
-- 🤖 **Modelo de Machine Learning** – Mini modelo de aprendizaje automático utilizando **Pandas** y **NumPy**.  
-- 🌍 **Mini Página Web con Django** – Aplicación web sencilla desarrollada con el framework **Django**.  
+- 🗣️ **Asistente de Voz** – Un asistente inteligente que responde a comandos de voz.  [*En progreso*] 
+- 🏞️ **Reconocedor Facial** – Implementación de reconocimiento facial con **OpenCV**.  [*En progreso*] 
+- 🤖 **Modelo de Machine Learning** – Mini modelo de aprendizaje automático utilizando **Pandas** y **NumPy**.  [*En progreso*] 
+- 🌍 **Mini Página Web con Django** – Aplicación web sencilla desarrollada con el framework **Django**.  [*En progreso*] 
 - 🛠️ **Otros Proyectos** – Scripts y ejercicios de Python con conceptos más simples.  
 
 
