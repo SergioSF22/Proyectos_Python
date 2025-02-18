@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/proyecto/gestion_restaurante.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 13 - Programa un asistente de voz/proyecto/asistente_virtual.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +149,7 @@
     &quot;Python.Adivina_el_Numero_Solucion.executor&quot;: &quot;Run&quot;,
     &quot;Python.adivinaElNumero.executor&quot;: &quot;Run&quot;,
     &quot;Python.analizadorTexto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asistente_virtual.executor&quot;: &quot;Run&quot;,
     &quot;Python.buscador_num_serie.executor&quot;: &quot;Run&quot;,
     &quot;Python.comisiones.executor&quot;: &quot;Run&quot;,
     &quot;Python.cuenta_bancaria.executor&quot;: &quot;Run&quot;,
@@ -216,7 +217,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SergioSF/Desktop/Curso_Python/Dia 6 - Programa un recetario/proyecto/recetario.py&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SergioSF/Desktop/Curso_Python/Dia 6 - Programa un recetario/proyecto/recetario.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
