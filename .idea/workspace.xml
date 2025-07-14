@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/principal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/registro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/proyecto/Machine Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/proyecto/Machine Learning.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
