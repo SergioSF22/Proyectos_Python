@@ -3,5 +3,5 @@ Almacena el directorio obtenido en la variable ruta. No olvides importar Path, y
 from pathlib import Path
 
 base = Path.home()
-ruta = Path(base , "/Desktop/Curso_Python/Dia 6 - Programa un recetario/ejercicios/ej117.py")
+ruta = Path(base , "/Desktop/Curso_Python/Recetario/ejercicios/ej117.py")
 print(ruta)

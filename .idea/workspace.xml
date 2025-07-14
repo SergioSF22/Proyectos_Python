@@ -4,7 +4,397 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="" />
+    <list default="true" id="a8ff4e40-3bc3-4853-b9f8-ab6533b99620" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/apuntes/Input.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/apuntes/Print.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/apuntes/Proyecto+del+Día+1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/apuntes/Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/ejercicios/ej9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 1 - Programa un creador de nombres/proyecto/cerveceria.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/apuntes/Distancia+entre+dos+puntos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/apuntes/Distancia+entre+dos+puntos.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/proyecto/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/proyecto/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/ARCADE_I.TTF" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/ARCADE_I.TTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/Golpe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/Golpe.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/MusicaFondo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/MusicaFondo.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/Pixel-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/Pixel-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/bala.png" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/bala.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/disparo.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/disparo.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/enemigo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/enemigo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/nave.png" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/nave.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 10 - Programa el juego 'Invasion espacial'/recursos/ovni.png" beforeDir="false" afterPath="$PROJECT_DIR$/Juego 'Invasion espacial'/recursos/ovni.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 11 - Programa un extractor de datos web/apuntes/Extraer+Elementos+de+una+Clase.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor de datos web/apuntes/Extraer+Elementos+de+una+Clase.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 11 - Programa un extractor de datos web/ejercicios/mi_imagen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor de datos web/ejercicios/mi_imagen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 11 - Programa un extractor de datos web/ejercicios/web_scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor de datos web/ejercicios/web_scraping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 11 - Programa un extractor de datos web/ejercicios/web_scraping_imagenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor de datos web/ejercicios/web_scraping_imagenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 11 - Programa un extractor de datos web/proyecto/proyecto_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extractor de datos web/proyecto/proyecto_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/proyecto/Lista_Precios.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gestor de restaurantes/proyecto/Lista_Precios.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/proyecto/gestion_restaurante.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gestor de restaurantes/proyecto/gestion_restaurante.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/proyecto/recibo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gestor de restaurantes/proyecto/recibo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/recursos/Chillen.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Gestor de restaurantes/recursos/Chillen.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 12 - Programa un gestor de restaurantes/recursos/Dosis-VariableFont_wght.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Gestor de restaurantes/recursos/Dosis-VariableFont_wght.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 13 - Programa un asistente de voz/asistente_virtual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Asistente de voz/asistente_virtual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/ejercicios/reconocimiento_facial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/ejercicios/reconocimiento_facial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/proyecto/asistencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/proyecto/asistencia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/proyecto/registro.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/proyecto/registro.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/Cosmo Kramer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/Cosmo Kramer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/Elaine Benes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/Elaine Benes.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/Federico Garay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/Federico Garay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/George Constanza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/George Constanza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/Jerry Seinfeld.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/Jerry Seinfeld.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/Empleados/Sergio Sanchez.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/Empleados/Sergio Sanchez.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/FotoA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/FotoA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/FotoB.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/FotoB.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/FotoC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/FotoC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/brad-pitt-joven.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/brad-pitt-joven.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/brad-pitt-sin-barba2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/brad-pitt-sin-barba2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/bradd-pitt-perfil.png" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/bradd-pitt-perfil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 14 - Programa un controlador de asistencia/recursos/fotos_pruebas/bradd-pitt-perfil2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador de asistencia/recursos/fotos_pruebas/bradd-pitt-perfil2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/ejercicios/Matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/ejercicios/Matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/ejercicios/Numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/ejercicios/Numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/ejercicios/Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/ejercicios/Pandas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/ejercicios/ventas-autos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/ejercicios/ventas-autos.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/proyecto/DataSet_Titanic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/proyecto/DataSet_Titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 15 - Programa un modelo de machine learning/proyecto/Machine Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo de machine learning/proyecto/Machine Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/apuntes/Entornos+Virtuales.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/apuntes/Entornos+Virtuales.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/principal.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/principal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/registro.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/registro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/tarea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/tarea_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/tarea_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/templates/base/tarea_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/templates/base/tarea_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/proyecto/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/proyecto/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/proyecto/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/proyecto/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/proyecto/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/proyecto/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/proyecto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/proyecto/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 16 - Programa una pagina web/proyecto/src/proyecto/proyecto/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pagina web/proyecto/src/proyecto/proyecto/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Conversiones+entre+Tipos+de+Datos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Formatear+Cadenas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Integers+y+Floats.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Los+Nombres+de+las+Variables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Operadores+Matemáticos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Redondeo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Tipos+de+Datos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/apuntes/Variables.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/ejercicios/ej27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 2 - Programa un calculador de comisiones/proyecto/comisiones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Booleanos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Diccionarios.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Métodos+de+Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Propiedades+de+Strings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Sets+-+Métodos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Substrings.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/Tuples.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/apuntes/index(+).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej37.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej38.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej40.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej46.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej48.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej49.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej50.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej51.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej52.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej53.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/ejercicios/ej54.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/proyecto/Proyecto+del+Día+3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3 - Programa un analizador de texto/proyecto/analizadorTexto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Comprensión+de+Listas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Control+de+Flujo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Enumerador.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Loops+For.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Loops+While.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Match.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Min+&amp;+Max.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Operadores+Lógicos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Operadores+de+Comparación.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Random.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Rango.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/apuntes/Zip.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/55ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/56ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/57ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/58ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/59ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/60ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/61ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/62ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/63ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/64ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/65ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/66ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/67ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/68ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/69ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/70ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/71ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/72ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/73ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/74ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/75ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/76ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/77ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/78ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/79ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/80ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/81ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/82ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/83ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/84ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/85ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/86ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/ejercicios/87ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/proyecto/Proyecto+del+Día+4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 4 - Programa el juego 'Adivina el numero'/proyecto/adivinaElNumero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Argumentos+Indefinidos+args.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Argumentos+Indefinidos+kwargs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Documentación.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Ejercicio_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Ejercicio_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Ejercicio_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Ejercicio_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Funciones+Dinámicas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Funciones.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Interacción+entre+Funciones.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/apuntes/Return.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/100ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/101ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/102ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/103ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/104ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/105ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/106ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/107ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/108ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/88ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/89ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/90ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/91ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/92ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/93ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/94ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/95ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/96ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/97ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/98ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/99ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/ejercicios/problema_practico4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/proyecto/Diagrama+Ahorcado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/proyecto/Proyecto+del+Día+5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 5 - Programa el juego 'El ahorcado'/proyecto/el_ahorcado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Abrir+y+Leer+Archivos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Archivos+y+Funciones.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Crear+y+Escribir+Archivos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Directorios.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Limpiar+la+Consola.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Path.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/apuntes/Pathlib.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/109/109ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/109/texto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/110/110ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/110/texto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/111/111ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/111/texto.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/112/112ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/112/mi_archivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/113/113ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/113/mi_archivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/114/114ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/114/registro.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/115ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/116ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/117ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/118ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/119/119ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/119/ejemplo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/120/120ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/ejercicios/120/log_errores.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Proyecto+del+Día+6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Carnes/Entrecot al Malbec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Carnes/Matambre a la Pizza.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Ensaladas/Ensalada Griega.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Ensaladas/Ensalada Mediterranea.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Pastas/Canelones de Espinaca.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Pastas/Ravioles de Ricotta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Postres/Compota de Manzana.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/Recetas/Postres/Tarta de Frambuesa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 6 - Programa un recetario/proyecto/recetario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Atributos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Clases.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Herencia+Extendida.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Herencia.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Métodos+Especiales.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Métodos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Polimorfismo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/apuntes/Tipos+de+Métodos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/121ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/122ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/123ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/124ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/125ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/126ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/127ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/128ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/129ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/130ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/131ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/132ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/133ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/134ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/135ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/136ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/137ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/138ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/139ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/140ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/141ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/142ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/143ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/ejercicios/144ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/Proyecto+del+Día+7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 7 - Programa una cuenta bancaria/proyecto/cuenta_bancaria.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Decoradores.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Generadores.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Instalar+Paquetes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Manejo+de+Errores.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Módulos+y+Paquetes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Pylint.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/apuntes/Unittest.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/145ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/146ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/147ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/148ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/149ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/150ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/ejercicios/practica_pylint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/Proyecto+del+Día+8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/numeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 8 - Programa una consola de turnos/proyecto/principal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Comprimir+y+Descomprimir+Archivos.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Expresiones+Regulares.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Módulo+Collections.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Módulo+Datetime.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Módulo+Math.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Módulo+Shutil+y+OS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/apuntes/Módulos+para+medir+el+tiempo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/151ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/152ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/153ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/154ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/155ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/156ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/157ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/158ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/159ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/160ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/161ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/ejercicios/162ej.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Instrucciones.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1A/archivo1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1A/archivo2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1A/archivo3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1A/archivo4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1A/archivo5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1B/archivo6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1B/archivo7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1B/archivo8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1C/archivo10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_1/Directorio_1C/archivo9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2A/archivo11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2A/archivo12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2A/archivo13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2A/archivo14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2B/archivo15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2B/archivo16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2B/archivo17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2B/archivo18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2C/archivo19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_2/Directorio_2C/archivo20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3A/archivo21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3A/archivo22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3A/archivo23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3B/archivo24.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3B/archivo25.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3B/archivo26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3B/archivo27.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3C/archivo28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3C/archivo29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_3/Directorio_3C/archivo30.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4A/archivo31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4A/archivo32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4A/archivo33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4B/archivo34.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4B/archivo35.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4B/archivo36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4B/archivo37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4C/archivo38.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4C/archivo39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Mi_Gran_Directorio/Directorio_4/Directorio_4C/archivo40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Proyecto+Dia+9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/Proyecto+del+Día+9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/buscador_num_serie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 9 - Programa un buscador de numeros de serie/proyecto/descomprimir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Otros proyectos y ejercicios/Recetario/ejercicios/116ej.py" beforeDir="false" afterPath="$PROJECT_DIR$/Otros proyectos y ejercicios/Recetario/ejercicios/116ej.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Otros proyectos y ejercicios/Recetario/ejercicios/117ej.py" beforeDir="false" afterPath="$PROJECT_DIR$/Otros proyectos y ejercicios/Recetario/ejercicios/117ej.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +409,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="desarrollo" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
