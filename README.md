@@ -9,7 +9,7 @@ Este repositorio contiene una colección de pequeños proyectos y scripts desarr
 - 🗣️ **Asistente de Voz** – Un asistente inteligente que responde a comandos de voz mediante las bibliotecas **pyttsx3** y **speech_recognition**. 
 - 🏞️ **Reconocedor Facial** – Implementación de un reconocimiento facial mediante **OpenCV** y **face_recognition**.
 - 🤖 **Modelo de Machine Learning** – Mini modelo de aprendizaje automático utilizando **Pandas**, **NumPy**, **matplotlib**, **scikit-learn** y **seaborn**.
-- 🌍 **Mini Página Web con Django** – Aplicación web sencilla desarrollada con el framework **Django**.  [*En progreso*] 
+- 🌍 **Mini Página Web con Django** – Aplicación web para gestionar tareas desarrollada con el framework **Django**.
 - 🛠️ **Otros Proyectos** – Scripts y ejercicios de Python con conceptos más simples.  
 
 
